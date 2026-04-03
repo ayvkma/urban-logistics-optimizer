@@ -1,6 +1,10 @@
 # 🚚 Urban Logistics Optimizer (Tokyo)
 
+**Live Demo:** [View the Interactive Dashboard Here](https://urban-logistics-optimizer.vercel.app/)
+
 A full-stack spatial data pipeline and interactive visualization dashboard built to solve a Capacitated Vehicle Routing Problem (CVRP) in the Tokyo metropolitan area.
+
+![Demo Screenshot](demo.png)
 
 ## 🎯 The Objective
 Modern urban logistics require balancing delivery speed with physical vehicle constraints. This project simulates a real-world dispatch system that cleans messy field data, calculates optimized delivery routes based on vehicle weight limits, and visualizes the dispatch plan for operations managers.
